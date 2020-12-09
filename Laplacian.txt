@@ -1,0 +1,1 @@
+Laplasyen, skaler bir alanının gradyanı alınarak elde edilen vektörün diverjansıdır.

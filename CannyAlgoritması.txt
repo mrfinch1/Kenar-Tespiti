@@ -1,0 +1,1 @@
+Canny kenar dedektörü, görüntülerdeki çok çeşitli kenarları algılamak için çok aşamalı bir algoritma kullanan bir kenar algılama operatörüdür. 1986 yılında John F. Canny tarafından geliştirildi. Canny, tekniğin neden işe yaradığını açıklayan hesaplamalı bir kenar saptama teorisi de üretti.
